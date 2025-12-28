@@ -1,0 +1,6 @@
+onlyBuiltDependencies:
+  - better-sqlite3
+  - esbuild
+  - sharp
+  - '@heroui/shared-utils'
+  - unrs-resolver
